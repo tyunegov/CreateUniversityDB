@@ -1,0 +1,17 @@
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\bin\Debug\FillingDataUniversityDB.exe.config
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\bin\Debug\FillingDataUniversityDB.exe
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\bin\Debug\FillingDataUniversityDB.pdb
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\bin\Debug\EntityFramework.dll
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\bin\Debug\EntityFramework.xml
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\obj\Debug\FillingDataUniversityDB.csprojAssemblyReference.cache
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\obj\Debug\FillingDataUniversityDB.Form1.resources
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\obj\Debug\FillingDataUniversityDB.Properties.Resources.resources
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\obj\Debug\FillingDataUniversityDB.csproj.GenerateResource.cache
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\obj\Debug\FillingDataUniversityDB.csproj.CoreCompileInputs.cache
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\obj\Debug\FillingDataUniversityDB.csproj.CopyComplete
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\obj\Debug\FillingDataUniversityDB.exe
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\obj\Debug\FillingDataUniversityDB.pdb
+C:\Users\Тюнеговы\source\repos\FillingDataUniversityDB\bin\Debug\Newtonsoft.Json.dll
